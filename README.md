@@ -88,7 +88,7 @@ Patient Case (JSON)
 🔐 Clinical Verification Layer ← SEPARATE final pipeline, runs after reward
                                   Claude API re-checks entire decision independently
                                   overrides errors before output reaches environment
-                                  does NOT affect reward or training
+                                  does NOT affect reward or training  
 ```
 
 ### Doctor Agent
